@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\bin\Debug\net8.0\KurucuFonksiyonlar.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\bin\Debug\net8.0\KurucuFonksiyonlar.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\bin\Debug\net8.0\KurucuFonksiyonlar.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\bin\Debug\net8.0\KurucuFonksiyonlar.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\bin\Debug\net8.0\KurucuFonksiyonlar.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\KurucuFonksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\KurucuFonksiyonlar.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\KurucuFonksiyonlar.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\KurucuFonksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\KurucuFonksiyonlar.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\refint\KurucuFonksiyonlar.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\KurucuFonksiyonlar.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\KurucuFonksiyonlar.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\KurucuFonksiyonlar\obj\Debug\net8.0\ref\KurucuFonksiyonlar.dll
